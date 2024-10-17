@@ -29,4 +29,4 @@ Users can access my GitHub library and see all of the code in Posit Connect. The
 If you would like to provide feedback or are interested in a real-world case study for my graduate research, please email me at [your-email@example.com].
 
 ## References
-- [Link to your Zotero library or list of resources]
+- [Link to list of resources](resources.md)
