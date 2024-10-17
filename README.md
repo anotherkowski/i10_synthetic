@@ -25,8 +25,5 @@ _(to refresh your memory, or if you were not there and found this repo by accide
 ## Installation Instructions
 Users can access my GitHub library and see all of the code in Posit Connect. They can run that code locally or in their browsers using platforms like Deepnote. Users can upload all of my `.ipynb` files to Deepnote to run the code themselves. They will need to change the `FILEPATH` placeholders and some other variables to point to the real data CSVs and directories.
 
-## Feedback and Contributions
-If you would like to provide feedback or are interested in a real-world case study for my graduate research, please email me at [your-email@example.com].
-
 ## References
 - [Link to list of resources](resources.md)
